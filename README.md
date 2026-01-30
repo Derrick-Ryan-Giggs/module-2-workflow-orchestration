@@ -111,13 +111,13 @@ MD5(CONCAT(
 ```
 
 ## Screenshots
-![Kestra Dashboard] <img width="1920" height="1080" alt="Screenshot From 2026-01-29 21-39-26" src="https://github.com/user-attachments/assets/b4d064c3-c291-42cb-95c1-4cb7b8a548b3" />, 
+[Kestra Dashboard] <img width="1920" height="1080" alt="Screenshot From 2026-01-29 21-39-26" src="https://github.com/user-attachments/assets/b4d064c3-c291-42cb-95c1-4cb7b8a548b3" />, 
 <img width="1920" height="1080" alt="Screenshot From 2026-01-29 21-40-10" src="https://github.com/user-attachments/assets/472e7923-9dc0-4fef-ad0b-26787baa0248" />
 
-![BigQuery Tables] <img width="1920" height="1080" alt="Screenshot From 2026-01-29 22-04-14" src="https://github.com/user-attachments/assets/7d27c47f-8b6c-428b-8f91-880db789c2bc" />
+[BigQuery Tables] <img width="1920" height="1080" alt="Screenshot From 2026-01-29 22-04-14" src="https://github.com/user-attachments/assets/7d27c47f-8b6c-428b-8f91-880db789c2bc" />
 <img width="1920" height="1080" alt="Screenshot From 2026-01-29 22-08-33" src="https://github.com/user-attachments/assets/32c3a355-ce55-4259-a1fc-54dffb74858d" />
 
-![Successful Execution] <img width="1920" height="1080" alt="Screenshot From 2026-01-29 22-23-05" src="https://github.com/user-attachments/assets/ec23a7f4-2a1b-459f-937c-63edf8a30d7f" />
+[Successful Execution] <img width="1920" height="1080" alt="Screenshot From 2026-01-29 22-23-05" src="https://github.com/user-attachments/assets/ec23a7f4-2a1b-459f-937c-63edf8a30d7f" />
 
 
 ## Files in This Directory
